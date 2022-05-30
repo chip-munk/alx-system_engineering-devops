@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 jamwaka jamwaka 4096 May 30 05:07 .
+drwxrwxr-x 6 jamwaka jamwaka 4096 May 30 04:31 ..
+-rwxrw-r-- 1 jamwaka jamwaka   32 May 30 04:34 0-hello_world
+-rwxrw-r-- 1 jamwaka jamwaka   28 May 30 04:39 1-confused_smiley
+-rwxrw-r-- 1 jamwaka jamwaka   28 May 30 04:41 2-hellofile
+-rwxrw-r-- 1 jamwaka jamwaka   39 May 30 04:43 3-twofiles
+-rwxrw-r-- 1 jamwaka jamwaka   29 May 30 04:47 4-lastlines
+-rwxrw-r-- 1 jamwaka jamwaka   29 May 30 04:52 5-firstlines
+-rwxrw-r-- 1 jamwaka jamwaka   36 May 30 04:54 6-third_line
+-rwxrw-r-- 1 jamwaka jamwaka   82 May 30 05:02 7-file
+-rwxrw-r-- 1 jamwaka jamwaka   36 May 30 05:06 8-cwd_state
+-rw-rw-r-- 1 jamwaka jamwaka   12 May 30 05:00 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 jamwaka jamwaka   12 May 30 05:03 \\\'"Best School"\'\\$\?\\\\\*:)
+-rw-rw-r-- 1 jamwaka jamwaka    0 May 30 05:07 ls_cwd_content
+-rw-rw-r-- 1 jamwaka jamwaka    6 May 30 04:36 README.md
